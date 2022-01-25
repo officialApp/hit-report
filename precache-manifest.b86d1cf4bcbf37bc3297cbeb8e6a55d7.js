@@ -4,19 +4,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "404.html"
   },
   {
-    "revision": "d6919814097c41f103aebe7b5f196d6b",
-    "url": "android-launchericon-192-192.png"
+    "revision": "2bc4da799cd42dc6cf0210a6b3486e68",
+    "url": "android-chrome-192x192.png"
   },
   {
-    "revision": "c80f68ccaf71bb2f96115e536335c439",
-    "url": "android-launchericon-512-512.png"
+    "revision": "9444326d9cfb634b53c3339161d96ee0",
+    "url": "android-chrome-384x384.png"
   },
   {
-    "revision": "5c41cb5231daa1aca19e",
+    "revision": "a57d58c0051acbbbd110",
     "url": "css/app~d0ae3f07.be63bfe8.css"
   },
   {
-    "revision": "200e3b85df017057c3f0",
+    "revision": "1cf9b34f40757bd79615",
     "url": "css/app~d4f0504a.c5ebbf97.css"
   },
   {
@@ -88,16 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "f2f9512aca3e16c663e40de15a94b5f0",
+    "revision": "f45f35dd1e0715201a15e18151fbcf1a",
     "url": "index.html"
   },
   {
-    "revision": "5c41cb5231daa1aca19e",
-    "url": "js/app~d0ae3f07.8d25aa12.js"
+    "revision": "a57d58c0051acbbbd110",
+    "url": "js/app~d0ae3f07.1cdbcc0e.js"
   },
   {
-    "revision": "200e3b85df017057c3f0",
-    "url": "js/app~d4f0504a.d3b5f2a5.js"
+    "revision": "1cf9b34f40757bd79615",
+    "url": "js/app~d4f0504a.0c06e0d4.js"
   },
   {
     "revision": "990b49e5c5f3f12ad28f",
@@ -148,8 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors~18eda011.35c9fe77.js"
   },
   {
-    "revision": "3063ab02df84cd9f7be6",
-    "url": "js/chunk-vendors~1f20a385.e4a18090.js"
+    "revision": "257f2c924043765d8205",
+    "url": "js/chunk-vendors~1c3a2c3f.17fb4142.js"
+  },
+  {
+    "revision": "8f5d5601021070e53540",
+    "url": "js/chunk-vendors~1f20a385.c64cb5bd.js"
   },
   {
     "revision": "f6d424fecccb1e0943a7",
@@ -242,10 +246,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a06430392c4a41935386",
     "url": "js/chunk-vendors~e4173fa2.b6a0bb65.js"
-  },
-  {
-    "revision": "8176ad0fc0b882c723f3",
-    "url": "js/chunk-vendors~ec8c427e.ab2be7b9.js"
   },
   {
     "revision": "09877eb7d611896ddfb2",
